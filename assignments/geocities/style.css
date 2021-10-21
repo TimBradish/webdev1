@@ -1,0 +1,32 @@
+body{
+    height:300vh;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimagesmtv-a.akamaihd.net%2Furi%2Fmgid%3Afile%3Ahttp%3Ashared%3Amtv.com%2Fnews%2Fwp-content%2Fuploads%2F2015%2F10%2FThe-Scarecrow-Walks-at-Midnight-1445856209.jpg%3Fquality%3D.8%26height%3D1143.921568627451%26width%3D800&f=1&nofb=1)  
+}
+div{
+    background-color: darkslategrey;
+    color:floralwhite;
+    font-size: x-large;
+    width:50rem; 
+    font-family: 'Rye', cursive; 
+}
+.seconddiv{
+    background-color: steelblue;
+    position: absolute;
+    left: 65%;
+    top: 65%;
+    width: 40rem;
+    font-family: 'IM Fell French Canon SC', serif; 
+}
+.spookylastdiv{
+    position: fixed;
+    top:0;
+    right:0; 
+    width:10rem;
+}
+.fixedbox{
+    position:fixed;
+    bottom:0;
+    width:9rem;
+    height:9rem;
+    
+}
