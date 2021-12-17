@@ -1,0 +1,58 @@
+body{
+    margin: 0 auto;
+    max-width: 60rem;
+    background-color: rgb(112, 82, 42);
+}
+nav{
+font-size: x-large;
+margin-bottom: 1rem;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(189, 132, 79);
+    color: ghostwhite;
+  }
+  a:hover {
+    color: rgb(0, 119, 255);
+  }
+main{
+    max-width: 50rem;
+    margin: 0 auto;
+    color:ghostwhite
+}
+header{
+    text-align: center;
+}
+p{
+    font-size:larger;
+    color:ghostwhite;
+    font-family: 'Comfortaa'; 
+}
+header h1{
+    font-size:5rem;
+    color:rgb(161, 12, 12)
+}
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    padding: .5 .5 .5 .5;
+  }
+  .home{
+    position:fixed;
+    top:0; 
+    left:0;
+    font-size: xx-large;
+    font-family: 'Nunito', sans-serif; 
+  }
+  h1{
+    font-size: 3rem;  
+    color:rgb(145, 12, 12);
+    text-align: center;
+  }
+
+  
+  
